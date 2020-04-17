@@ -1,2 +1,0 @@
-# swconvergence
-sopt
